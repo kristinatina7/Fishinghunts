@@ -1,4 +1,4 @@
-yamlname: Check Fishing Events
+name: Check Fishing Events
 
 on:
   schedule:
